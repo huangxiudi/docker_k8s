@@ -1,2 +1,2 @@
-From gcr.io/google-containers/kube-scheduler-amd64:v1.11.2
+From gcr.io/google-containers/kube-scheduler-amd64:v1.11.0
 MAINTAINER huangxiudi2
